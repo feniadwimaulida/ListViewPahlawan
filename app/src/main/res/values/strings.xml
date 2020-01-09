@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ListViewPahlawan</string>
+    <string name="Nama_pahlawan">Nama_Pahlawan</string>
+    <string name="Deskrpsi_pahlawan">Deskripsi_Pahlawan</string>
+</resources>
